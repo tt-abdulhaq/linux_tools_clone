@@ -12,7 +12,7 @@ To use any command, clone the repository and compile the Rust source files using
 
 Example:
 ```bash
-git clone https://github.com/tt-abdulhaq/linux_tools_clone.git
-cd linux_tools_clone/command_name
+git clone https://github.com/yourusername/rusty-linux-commands.git
+cd rusty-linux-commands/command_name
 cargo build --release
 ./target/release/command_name [arguments]
