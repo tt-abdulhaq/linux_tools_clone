@@ -5,6 +5,7 @@ This repository contains a collection of Linux commands implemented in Rust prog
 ## Commands Implemented
 - **`ls`**: List directory contents
 - **`pwd`**: Print name of current/working directory
+- **`mkdir`**: Make directories
 
 *(This list will be updated as more commands are implemented)*
 
